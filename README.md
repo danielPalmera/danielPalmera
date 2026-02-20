@@ -1,5 +1,5 @@
 # Hola, soy Daniel Molina .A 
-### (Web developer, ex CTO, old school developer)
+### (Web developer, CTO, old school developer)
 ![Logo](https://www.lipsum.com/images/banners/grey_180x150.gif)
 
 ## Descripción
